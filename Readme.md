@@ -1,8 +1,8 @@
-# Slides Frontend Carioca - 2015
+# Slides Python Class - 1
 
 ## Instalando
 
-[Veja os slides](http://willianjusten.com.br/frontend-carioca-2015/).
+[Veja os slides](http://willianjusten.com.br/python-class-1/).
 
 Primeiro de tudo, instale as depdências para rodar os slides em sua máquina.
 
@@ -11,8 +11,8 @@ Primeiro de tudo, instale as depdências para rodar os slides em sua máquina.
 
 ```sh
 # Clone o repositório
-$ git clone git://github.com/willianjusten/frontend-carioca-2015
-$ cd frontend-carioca-2015
+$ git clone git://github.com/willianjusten/python-class-1
+$ cd python-class-1
 
 # Instale as dependências do Node
 $ npm install
